@@ -1,0 +1,8 @@
+.Tab{
+    margin-bottom: 20px;
+}
+
+.Container{
+    box-sizing: border-box;
+    overflow-x: auto;
+}

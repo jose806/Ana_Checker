@@ -1,0 +1,25 @@
+.Image{
+    height: 150px;
+    width: 150px;
+}
+
+.PaperContent{
+    display: flex;
+}
+
+.DateActionDiv{
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: 0px;
+    position: relative;
+}
+
+.Button{
+    position:absolute;
+    bottom: 0px;
+}
+
+.EventInfo{
+    padding-top: 10px;
+    padding-left: 20px;
+}

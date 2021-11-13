@@ -1,0 +1,16 @@
+.Container{
+    width: 950px;
+    margin: auto;
+}
+
+.TitleRow{
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.Button{
+    margin-left: auto;
+    margin-right: 17px;
+    margin-top: auto;
+    margin-bottom: 10px;
+}

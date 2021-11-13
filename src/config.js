@@ -1,0 +1,1 @@
+ export const BaseUrl = 'http://localhost:5000/attendee-tracker-308cc/us-central1/api'
